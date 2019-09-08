@@ -96,6 +96,7 @@ var Configuration = map[string]PathConfig{
 	"pstree":  Allowed,
 	"perl":    Allowed,
 	"rsync":   Allowed,
+        "repo":    Allowed,
 	"sh":      Allowed,
 	"stubby":  Allowed,
 	"tr":      Allowed,
