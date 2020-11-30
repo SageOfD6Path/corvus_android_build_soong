@@ -95,6 +95,7 @@ var Configuration = map[string]PathConfig{
 	"pstree":  Allowed,
 	"repo":    Allowed,
 	"rsync":   Allowed,
+        "resize2fs": Allowed,
 	"sh":      Allowed,
 	"tr":      Allowed,
 	"unzip":   Allowed,
